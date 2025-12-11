@@ -1,0 +1,1 @@
+Git learning: This is a content for staging.
